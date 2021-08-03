@@ -1,0 +1,140 @@
+body{
+    background-color: #23272a;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    margin:auto;
+    text-align: center;
+    font-weight:550;
+    font-size:180%;
+    padding:2%
+    
+}
+#sech1{
+    font-size:160%;
+}
+h2{
+    font-size: 150%;
+}
+p{
+    font-size: 110%;
+}
+
+#topnav a{
+    background-color: #e5eef106;
+    display: block;
+    padding: 4%;
+    text-decoration: none;
+    text-align: center;
+    color:#ffffff;
+    border-radius: 5px;
+    border:solid #8153eb;
+    margin-bottom:3%;
+    margin-top:3%;
+    border-width: 2px;
+}
+
+#heremasterpage{
+    font-weight:800;
+}
+#logoicon{
+    width: 6%;
+    height:9%;
+    margin-left:1%;
+}
+
+.main{
+    width: 100%;
+    overflow:hidden;
+}
+.leftside{
+    width:20%;
+    float:left;
+    margin: 0.8%;
+    padding:0.8%;
+}
+.rightside{
+    width:76%;
+    float:left;
+    margin:0.8;
+    padding:0.8;
+}
+#homeptag{
+    font-size: 160%;
+    font-weight: 580;
+    text-align: center;
+    width: 80%;
+    float:center;
+    margin-left:10%;
+    margin-right:10%;
+}
+#homeh1tag{
+    font-size: 200%;
+    font-weight: 580;
+    text-align: center;
+
+}
+#homelearnmore{
+    display: block;
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+    color:#ffffff;
+    border-radius: 5px;
+    border:solid #8153eb;
+    margin-bottom:3%;
+    margin-top:3%;
+    border-width: 2px;
+    width: 15%;
+    float: center;
+    margin-left: 40%;
+    font-size: 110%;
+    font-weight:500;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: left;
+    margin:0.5%;
+  }
+.aboutmecontent{
+    width: 80%;
+    margin-left: 10%;
+}
+#arrowsgif{
+    width: 50%;
+    float:center;
+    margin-left:22%;
+    margin-right:25%;
+    margin-top:0%;
+    height:10%;
+}
+#worklink{
+    color:#bdabe6;
+    text-decoration: none;
+}
+.picturedivision{
+    width:24%;
+    height:30%;
+    float:left;
+    margin:0.25%;
+    background-color: #8153eb;
+}
+.picturedivision img{
+    width:100%;
+    height:100%;
+}
+#outsidephotos{
+    width:30%;
+}
+#waterfallphoto{
+    width:25%;
+}
+#pictureart{
+    width:100%;
+    height:50%;
+}
